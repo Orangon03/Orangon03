@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Orangon03
 - 👀 I'm an aspiring backend-developer, currently working as Junior IT implementation specialist
-- 🌱 Currently studying computer science
+- 🌱 Currently studying computer science ( starting third semester september 2024)
 
 <!---
 Orangon03/Orangon03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
